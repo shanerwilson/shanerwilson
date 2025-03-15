@@ -1,6 +1,6 @@
  <a href="https://www.linkedin.com/in/shane-wilson/">Shane Wilson</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Cybersecurity is more than just a field for me, it's a driving force that fuels my enthusiasm every day, I'm driven by a relentless passion to protect the digital world. I thrive on confronting complex challenges head-on, using hands-on projects to outsmart threats and secure what matters. Whether it's vulnerability management, threat detection, or fortifying security operations, I stay one step ahead in this ever-evolving landscape. Dive into my work and see how I’ve silently worked to enhance security and sharpen processes, always guarding against the unseen dangers lurking in the digital dark.
 
 
 ## ⚠️ Vulnerability Management Projects
