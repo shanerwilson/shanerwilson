@@ -2,16 +2,16 @@
 
 Cybersecurity is more than just a field for me, it's a driving force that fuels my enthusiasm every day, I'm driven by a relentless passion to protect the digital world. I thrive on confronting complex challenges head-on, using hands-on projects to outsmart threats and secure what matters. Whether it's vulnerability management, threat detection, or fortifying security operations, I stay one step ahead in this ever-evolving landscape. Dive into my work and see how I’ve silently worked to enhance security and sharpen processes, always guarding against the unseen dangers lurking in the digital dark.
 
-🔵 BLUE TEAM 🔵
+<h2>👨‍💻 Cloud/Cybersecurity Projects:</h2>
 
-## ⚠️ Vulnerability Management Projects
+### 🔵 BLUE TEAM 🔵
+#### ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/shanerwilson/vulnerability-management-program)**
+**[Vulnerability Management Program Implementation](https://github.com/shanerwilson/vulnerability-management-program)**
 
 
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/shanerwilson/threat-hunting-scenario-tor/tree/main)**
+#### 🚨 Threat Hunting & Security Operations
+**[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/shanerwilson/threat-hunting-scenario-tor/tree/main)**
 
 <hr/>
 
