@@ -4,6 +4,10 @@ Cybersecurity is more than just a field for me, it's a driving force that fuels 
 
 <h2>👨‍💻 Cloud/Cybersecurity Projects:</h2>
 
+### 🟣 PURPLE TEAM 🟣
+#### 🎯 Full SIEM
+- **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it]((https://github.com/shanerwilson/Building-a-SOC-Honeynet-in-Azure))**
+
 ### 🔵 BLUE TEAM 🔵
 #### ⚠️ Vulnerability Management Projects
 
