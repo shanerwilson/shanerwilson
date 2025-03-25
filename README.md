@@ -18,7 +18,7 @@ Cybersecurity is more than just a field for me, it's a driving force that fuels 
 ## 🤳 Connect With Me
 
 
-<div align="center">
+<div align="left">
     <a href="https://www.linkedin.com/in/shane-wilson/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
