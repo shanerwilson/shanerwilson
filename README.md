@@ -16,6 +16,7 @@ Cybersecurity is more than just a field for me, it's a driving force that fuels 
 
 #### 🚨 Threat Hunting & Security Operations
 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/shanerwilson/threat-hunting-scenario-tor/tree/main)**
+
 **[Incident Response: Phishing via Fake Software Update ](https://github.com/shanerwilson/Phishing-via-Fake-Software-Update)**
 <hr/>
 
