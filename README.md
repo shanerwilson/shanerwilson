@@ -20,6 +20,10 @@ Cybersecurity is more than just a field for me, it's a driving force that fuels 
 **[Incident Response: Phishing via Fake Software Update ](https://github.com/shanerwilson/Phishing-via-Fake-Software-Update)**
 <hr/>
 
+#### 🚨Personal Sigma / Sentinel Rules
+**[Shane's Sigma Rules for Threat Detection)](https://github.com/shanerwilson/sigma-rules)**
+**[CVE-2024-7821 – Australian Super Account MFA Bypass)](https://github.com/shanerwilson/sigma-rules/blob/main/web/CVE-2024-7821-mfa-bypass.yml)
+
 ## 🤳 Connect With Me
 
 
