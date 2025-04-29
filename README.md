@@ -33,7 +33,7 @@ Dive into my work and see how I’ve silently worked to enhance security and sha
 ---
 
 ### 🛡️ Windows Hardening & STIG Remediation Projects
-**[PowerShell STIG Remediation Scripts Repository](https://github.com/shanerwilson/PowerShell-STIG-Scripts)**
+**[PowerShell STIG Remediation Scripts Repository](PowerShell-STIG-Remediation-Scripts)**
 
 ---
 
