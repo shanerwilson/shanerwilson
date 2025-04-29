@@ -14,6 +14,7 @@ Dive into my work and see how I’ve silently worked to enhance security and sha
 **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/shanerwilson/Building-a-SOC-Honeynet-in-Azure)**
 
 ### 🔵 BLUE TEAM 🔵
+
 #### ⚠️ Vulnerability Management Projects
 **[Vulnerability Management Program Implementation](https://github.com/shanerwilson/vulnerability-management-program)**
 
@@ -22,7 +23,9 @@ Dive into my work and see how I’ve silently worked to enhance security and sha
 
 **[Incident Response: Phishing via Fake Software Update](https://github.com/shanerwilson/Phishing-via-Fake-Software-Update)**
 
-#### 🚨 Personal Sigma / Sentinel Rules
+---
+
+### 🛡️ Personal Sigma / Sentinel Rules
 **[Shane's Sigma Rules for Threat Detection](https://github.com/shanerwilson/sigma-rules)**
 
 **[CVE-2024-7821 – Australian Super Account MFA Bypass Detection Rule](https://github.com/shanerwilson/sigma-rules/blob/main/web/CVE-2024-7821-mfa-bypass.yml)**
