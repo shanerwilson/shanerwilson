@@ -35,7 +35,7 @@ Dive into my work and see how I’ve silently worked to enhance security and sha
 ### 🛡️ Windows Hardening & STIG Remediation Projects
 **[PowerShell STIG Remediation Scripts Repository](https://github.com/shanerwilson/PowerShell-STIG-Remediation-Scripts)** 
 
-**[PowerShell Windows Harding Repository](https://github.com/shanerwilson/WMI-Hijack-Detection)**
+**[PowerShell Windows Harding - WMI Hijack Detection Script](https://github.com/shanerwilson/WMI-Hijack-Detection)**
 
 ---
 
